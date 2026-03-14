@@ -1,0 +1,93 @@
+{
+  "mawb": {
+    "goodsNameEn": "string",
+    "mawbSlac": "string",
+    "mawbHsCodes": [
+      {
+        "hsCode": "string"
+      }
+    ],
+    "shipperInfo": {
+      "contactKey": "string",
+      "companyName": "string",
+      "addressLine": "string",
+      "city": "string",
+      "state": "string",
+      "country": "string",
+      "postcode": "string",
+      "phone": "string",
+      "contacts": "string",
+      "fax": "string",
+      "taxNo": "string",
+      "email": "string"
+    },
+    "consigneeInfo": {
+      "contactKey": "string",
+      "companyName": "string",
+      "addressLine": "string",
+      "city": "string",
+      "state": "string",
+      "country": "string",
+      "postcode": "string",
+      "phone": "string",
+      "contacts": "string",
+      "fax": "string",
+      "taxNo": "string",
+      "email": "string"
+    },
+    "notifyerNeed": "boolean",
+    "sameAsConsign": "boolean",
+    "notifyerInfo": {
+      "contactKey": "string",
+      "companyName": "string",
+      "addressLine": "string"
+    }
+  },
+  "hawb": {
+    "generateHawbChargeItem": "boolean",
+    "chgscode": "string",
+    "currency": "string",
+    "goodsNameEn": "string",
+    "slac": "string",
+    "hawbHsCodes": [
+      {
+        "hsCode": "string"
+      }
+    ],
+    "shipperInfo": {
+      "contactKey": "string",
+      "companyName": "string",
+      "addressLine": "string",
+      "city": "string",
+      "state": "string",
+      "country": "string",
+      "postcode": "string",
+      "phone": "string",
+      "contacts": "string",
+      "fax": "string",
+      "taxNo": "string",
+      "email": "string"
+    },
+    "consigneeInfo": {
+      "contactKey": "string",
+      "companyName": "string",
+      "addressLine": "string",
+      "city": "string",
+      "state": "string",
+      "country": "string",
+      "postcode": "string",
+      "phone": "string",
+      "contacts": "string",
+      "fax": "string",
+      "taxNo": "string",
+      "email": "string"
+    },
+    "notifyerNeed": "boolean",
+    "sameAsConsign": "boolean",
+    "notifyerInfo": {
+      "contactKey": "string",
+      "companyName": "string",
+      "addressLine": "string"
+    }
+  }
+}

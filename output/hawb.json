@@ -1,0 +1,93 @@
+{
+  "mawb": {
+    "goodsNameEn": "LABEL PATCH",
+    "mawbSlac": null,
+    "mawbHsCodes": [
+      {
+        "hsCode": null
+      }
+    ],
+    "shipperInfo": {
+      "contactKey": null,
+      "companyName": "DONGGUAN LEE FONG LABEL MANUFACTURE LTD.",
+      "addressLine": "NO.9, WUSONG ROAD, YUWU COMMUNITY, DONGCHENG DISTRICT, DONGGUAN CITY, GUANGDONG PROVINCE, CHINA.",
+      "city": "DONGGUAN CITY",
+      "state": "GUANGDONG PROVINCE",
+      "country": "CHINA",
+      "postcode": null,
+      "phone": null,
+      "contacts": null,
+      "fax": null,
+      "taxNo": null,
+      "email": null
+    },
+    "consigneeInfo": {
+      "contactKey": null,
+      "companyName": "HI-TECH APPAREL COMPANY LIMITED",
+      "addressLine": "328 PRACHA-UTHIT RD., THOONGKRU, BANGKOK, 10140 THAILAND",
+      "city": "BANGKOK",
+      "state": null,
+      "country": "THAILAND",
+      "postcode": "10140",
+      "phone": null,
+      "contacts": null,
+      "fax": null,
+      "taxNo": null,
+      "email": null
+    },
+    "notifyerNeed": null,
+    "sameAsConsign": null,
+    "notifyerInfo": {
+      "contactKey": null,
+      "companyName": null,
+      "addressLine": null
+    }
+  },
+  "hawb": {
+    "generateHawbChargeItem": null,
+    "chgscode": null,
+    "currency": "USD",
+    "goodsNameEn": "LABEL PATCH",
+    "slac": null,
+    "hawbHsCodes": [
+      {
+        "hsCode": null
+      }
+    ],
+    "shipperInfo": {
+      "contactKey": null,
+      "companyName": null,
+      "addressLine": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "postcode": null,
+      "phone": null,
+      "contacts": null,
+      "fax": null,
+      "taxNo": null,
+      "email": null
+    },
+    "consigneeInfo": {
+      "contactKey": null,
+      "companyName": null,
+      "addressLine": null,
+      "city": null,
+      "state": null,
+      "country": null,
+      "postcode": null,
+      "phone": null,
+      "contacts": null,
+      "fax": null,
+      "taxNo": null,
+      "email": null
+    },
+    "notifyerNeed": null,
+    "sameAsConsign": null,
+    "notifyerInfo": {
+      "contactKey": null,
+      "companyName": null,
+      "addressLine": null
+    }
+  }
+}
