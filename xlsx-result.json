@@ -1,0 +1,81 @@
+{
+  "documentType": "airWaybill",
+  "airWaybillNumber": "S00441358",
+  "masterAirWaybillNumber": "61165403",
+  "shipper": {
+    "name": "DONGGUAN LEE FONG LABEL MANUFACTURE LTD.",
+    "address": "NO.9, WUSONG ROAD, YUWU COMMUNITY, DONGCHENG DISTRICT, DONGGUAN CITY, GUANGDONG PROVINCE, CHINA.",
+    "accountNumber": ""
+  },
+  "consignee": {
+    "name": "HI-TECH APPAREL COMPANY LIMITED",
+    "address": "328 PRACHA-UTHIT RD., THOONGKRU, BANGKOK, 10140 THAILAND",
+    "accountNumber": ""
+  },
+  "issuingCarrierAgent": {
+    "name": "SANCO INTERNATIONAL LOGISTICS LTD",
+    "iataCode": "",
+    "accountNumber": ""
+  },
+  "routing": {
+    "airportOfDeparture": "SHENZHEN",
+    "airportOfDestination": "BANGKOK",
+    "requestedRouting": {
+      "to": "BKK",
+      "byFirstCarrier": "8K"
+    },
+    "requestedFlight": "8K202",
+    "requestedFlightDate": "3/4/26"
+  },
+  "freightDetails": {
+    "freightPaymentTerms": "FREIGHT COLLECT",
+    "currency": "USD",
+    "chargeCodes": {
+      "wtVal": "CC",
+      "other": "CC"
+    },
+    "declaredValueForCarriage": "NVD",
+    "declaredValueForCustoms": "NCV",
+    "insurance": "NIC"
+  },
+  "handlingInformation": "SCI",
+  "shipmentDetails": {
+    "numberOfPieces": 7,
+    "grossWeight": 75,
+    "weightUnit": "K",
+    "rateClass": "Q",
+    "chargeableWeight": 100,
+    "rateCharge": "USD1.00/KG",
+    "totalWeightCharge": "USD",
+    "natureOfGoods": "LABEL PATCH",
+    "goodsDescription": "DIMS(CM) : 40X26X27/7 VOL(CBM) : 0.20"
+  },
+  "charges": {
+    "prepaid": {
+      "weightCharge": "",
+      "valuationCharge": "",
+      "tax": "",
+      "totalOtherChargesDueAgent": "",
+      "totalOtherChargesDueCarrier": "",
+      "totalPrepaid": ""
+    },
+    "collect": {
+      "weightCharge": "",
+      "valuationCharge": "",
+      "tax": "",
+      "totalOtherChargesDueAgent": "",
+      "totalOtherChargesDueCarrier": "",
+      "totalCollect": ""
+    },
+    "currencyConversionRates": "",
+    "ccChargesInDestCurrency": "",
+    "executedOnDate": "02-Mar-26",
+    "executedAtPlace": "SZX"
+  },
+  "signatures": {
+    "shipperOrAgent": "SANCO INTERNATIONAL LOGISTICS LTD.",
+    "issuingCarrierOrAgent": "余文科(Kico.Yu)"
+  },
+  "accountingInformation": "It is agreed that the goods described herein are accepted in apparent good order and condition (except as noted) for carriage SUBJECT TO THE CONDITIONS OF CONTRACT ON THE REVERSE HEREOF. ALL GOODS MAY BE CARRIED BY ANY OTHER MEANS INCLUDING ROAD OR ANY OTHER CARRIER UNLESS SPECIFIC CONTRARY INSTRUCTIONS ARE GIVEN HEREON BY THE  SHIPPER, AND SHIPPER AGREES THAT THE SHIPMENT MAY BE CARRIED VIA INTERMEDIATE STOPPING PLACES WHICH THE CARRIER DEEMS APPROPRIATE. THE SHIPPER'S ATTENTION IS DRAWN TO THE NOTICE CONCERNING CARRIER'S LIMITATION OF LIABILITY. Shipper may increase such limitation of liability by declaring a higher value for carriage and paying a supplemental charge if required.",
+  "shipperCertification": "Shipper certifies that the particulars on the face hereof are correct and that insofar as any part of the consignment contains dangerous goods, such part is properly described by name and is in proper condition for carriage by air according to the applicable Dangerous Goods Regulations."
+}

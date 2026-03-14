@@ -4,13 +4,15 @@
   "type": "module",
   "main": "src/index.ts",
   "scripts": {
-    "start": "tsx src/index.ts",
+    "start": "NODE_ENV=development tsx src/index.ts",
     "build": "tsc"
   },
   "dependencies": {
     "dotenv": "^16.4.0",
+    "mammoth": "^1.12.0",
     "openai": "^4.77.0",
-    "pdf-parse": "^1.1.1"
+    "pdf-parse": "^1.1.1",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
